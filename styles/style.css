@@ -206,7 +206,7 @@
 
 .feynman__title {
   width: 648px;
- top: 100px;  
+  top: 100px;
   line-height: 1.15;
   font-size: 120px;
   font-weight: 600;
@@ -316,7 +316,7 @@
 .footer__columns {
   width: 90%;
   display: flex;
-  justify-content: space-between; 
+  justify-content: space-between;
   padding: 60px 0 40px;
   margin: 0 auto;
   min-height: 250px;
