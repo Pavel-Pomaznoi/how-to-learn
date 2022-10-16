@@ -166,7 +166,7 @@
 
 .section-subtitle {
   width: 60%;
-  margin: 20px auto 60px auto;
+  margin: 20px auto 0;
   line-height: 34px;
   font-size: 24px;
   font-weight: normal;
@@ -363,8 +363,6 @@
 }
 
 .logo_place_footer {
-  width: 228;
-  height: 32px;
 
 }
 
